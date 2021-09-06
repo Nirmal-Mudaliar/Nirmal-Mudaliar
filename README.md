@@ -12,6 +12,7 @@
 <hr />
 
 ### Languages/Tools/Frameworks Known & Worked with :
+<img align="left" alt="Android" width="26px" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
 <img align="left" alt="Java" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
@@ -23,6 +24,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
 <img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />
 
-
+<br/>
 <br />
 <hr />
