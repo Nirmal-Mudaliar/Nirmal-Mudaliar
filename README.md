@@ -29,3 +29,11 @@
 <br/>
 <br />
 <hr />
+
+### Connect with me:
+[<img align="left" alt="gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](https://www.gmail.com)
+[<img align="left" alt="linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>](https://www.linkedin.com/in/nirmal-mudaliar-318b14218/)
+[<img align="left" alt="twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>](https://twitter.com/NirmalMudaliar)
+[<img align="left" alt="instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/nirmal_mudaliar/?hl=en)
+<br />
+<br />
