@@ -11,7 +11,7 @@
 
 <hr />
 
-### Languages|Tools|Frameworks Known & Worked with :
+### Languages | Tools | Frameworks Known & Worked with :
 <img align="left" alt="Android" width="26px" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
