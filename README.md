@@ -1,4 +1,4 @@
-### Hi there, its your Nirmal Mudaliar 👋
+### Hi there, its Nirmal Mudaliar 👋
 
 - 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: Can't dance 
