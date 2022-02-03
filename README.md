@@ -1,7 +1,8 @@
 ### Hi there, its Nirmal Mudaliar 👋
 
-- 🌱 I’m currently learning Kotlin
-- ⚡ Fun fact: Can't dance 
+- 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
+- ⚡ I’m currently learning Kotlin
+- ⚡ Fun fact: Can't dance
 
 
 ### My Stats
@@ -16,7 +17,7 @@
 <img align="left" alt="Android" width="26px" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
-<img align="left" alt="Java" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/>
+<img align="left" alt="Java" width="22px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
