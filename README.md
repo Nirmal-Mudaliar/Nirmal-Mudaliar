@@ -1,4 +1,4 @@
-### Hi there, its Nirmal Mudaliar 👋
+### Hi there👋
 
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
 - ⚡ I’m currently learning Kotlin
