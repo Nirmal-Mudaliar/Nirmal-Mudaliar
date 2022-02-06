@@ -1,6 +1,9 @@
 <h1 align="center">Hey !👋, I'm Nirmal Mudaliar </h1>
 <h3 align="center">Strongly belive in 'No code is a waste!'</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
 - 🔭 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on [Expense](https://github.com/Nirmal-Mudaliar/Expense)
