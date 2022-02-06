@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/NirmalMudaliar" target="blank"><img src="https://img.shields.io/twitter/follow/NirmalMudaliar?color=1DA1F2&logo=twitter&style=for-the-badge" alt="NirmalMudaliar" /></a> </p>
 
-### My Stats
-##### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
-[![Most used tech on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-Mudaliar&layout=compact&show_icons=true&theme=radical)](https://github.com/Nirmal-Mudaliar)
+<!-- ### My Stats
+##### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github -->
+<!-- [![Most used tech on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-Mudaliar&layout=compact&show_icons=true&theme=radical)](https://github.com/Nirmal-Mudaliar)
 
-[![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal-Mudaliar&show_icons=true&theme=radical)](https://github.com/Nirmal-Mudaliar)
+[![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal-Mudaliar&show_icons=true&theme=radical)](https://github.com/Nirmal-Mudaliar) -->
 
 <hr />
 
