@@ -1,4 +1,5 @@
 ### Hi there👋
+<h3 align="center">No code is a waste</h3>
 
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
 - 🔭 I’m currently learning Kotlin
