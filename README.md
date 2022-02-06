@@ -4,7 +4,7 @@
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
 - 🔭 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on [Expense](https://github.com/Nirmal-Mudaliar/Expense)
-- 📫 How to reach me *nirmalmudaliar22@gmail.com*
+- 📫 How to reach me nirmalmudaliar22@gmail.com
 - ⚡ Fun fact: Can't dance
 
 <p align="left"> <a href="https://twitter.com/NirmalMudaliar" target="blank"><img src="https://img.shields.io/twitter/follow/NirmalMudaliar?color=1DA1F2&logo=twitter&style=for-the-badge" alt="NirmalMudaliar" /></a> </p>
