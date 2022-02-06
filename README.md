@@ -1,7 +1,7 @@
 <h1 align="center">Hey !👋, I'm Nirmal Mudaliar </h1>
 <h3 align="center">Strongly belive in 'No code is a waste!'</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">
 
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
 - 🔭 I’m currently learning Kotlin
