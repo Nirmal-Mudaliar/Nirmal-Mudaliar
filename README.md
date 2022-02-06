@@ -4,6 +4,7 @@
 - ⚡ I’m currently learning Kotlin
 - ⚡ Fun fact: Can't dance
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">&quot;Building something is not a viable option when one CAN SEE people (atleast themselves) fail.&quot;<a href="https://twitter.com/hashtag/ThursdayThought?src=hash&amp;ref_src=twsrc%5Etfw">#ThursdayThought</a></p>&mdash; Saurav Panchal (@sauravpanchhal) <a href="https://twitter.com/sauravpanchhal/status/1481484825207119878?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote>
 
 ### My Stats
 ##### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
