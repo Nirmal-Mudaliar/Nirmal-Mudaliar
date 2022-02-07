@@ -17,9 +17,9 @@
 
 [![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal-Mudaliar&show_icons=true&theme=radical)](https://github.com/Nirmal-Mudaliar) -->
 
-<hr />
 
-### Languages | Tools | Frameworks Known & Worked with :
+
+### Languages | Tools :
 <img align="left" alt="Android" width="26px" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
@@ -36,7 +36,7 @@
 
 <br/>
 <br />
-<hr />
+
 
 ### Connect with me:
 [<img align="left" alt="linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>](https://www.linkedin.com/in/nirmal-mudaliar-318b14218/)
