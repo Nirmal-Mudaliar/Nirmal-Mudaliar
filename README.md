@@ -2,6 +2,7 @@
 <h3 align="center">Strongly belive in 'No code is a waste!'</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">
+<br/>
 
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
 - 🔭 I’m currently learning Kotlin
