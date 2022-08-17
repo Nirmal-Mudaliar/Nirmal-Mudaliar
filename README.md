@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
 - 🔭 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on [Croix](https://github.com/Nirmal-Mudaliar/Expense)
+- 👯 I’m looking to collaborate on [Croix](https://github.com/Nirmal-Mudaliar/Croix)
 - 📫 How to reach me nirmalmudaliar22@gmail.com
 - ⚡ Fun fact: Can't dance
 <br/>
