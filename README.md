@@ -4,9 +4,8 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">
 <br/>
 
+- 🔭 Software Engineer at Valorx
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
-- 🔭 I’m currently learning Angular
-- 👯 I’m looking to collaborate on [Croix](https://github.com/Nirmal-Mudaliar/Croix)
 - 📫 How to reach me nirmalmudaliar22@gmail.com
 - ⚡ Fun fact: Can't dance
 <br/>
