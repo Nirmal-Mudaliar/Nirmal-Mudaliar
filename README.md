@@ -5,7 +5,6 @@
 - 🔭 Software Engineer at Valorx
 - 🌱 I'm currently working on somthing cool    (͠≖ ͜ʖ͠≖)👌
 - 📫 How to reach me nirmalmudaliar22@gmail.com
-- ⚡ Fun fact: Can't dance
 <br/>
 
 
