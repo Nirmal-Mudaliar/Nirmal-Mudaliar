@@ -2,45 +2,60 @@
 <h3 align="center">Full Stack Developer | Angular ⚡ + Go 🚀</h3>
 
 <p align="center">
-  Building scalable systems & clean UIs because great code should *actually matter*.
+  Building scalable systems and clean UIs from responsive frontends to high performance distributed backends.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Software Engineer passionate about **Full Stack Development**
-- ⚡ Frontend: Crafting smooth experiences with **Angular**
-- 🛠 Backend: Building performant systems using **Go**
-- 🧠 Strong focus on **problem-solving, system design & clean architecture**
-- 💡 Motto: *"No code is ever wasted — it’s all learning."*
+🚀 Software Engineer focused on Full Stack Development  
+⚡ Frontend: Building seamless user experiences with Angular  
+🛠 Backend: Designing high performance services using Go  
+🔗 Experienced in Microservices Architecture and API Design  
+⚙️ Hands on with Docker, gRPC, Azure and scalable system design  
+🧠 Strong focus on problem solving, concurrency and clean architecture  
+💡 Motto: "No code is ever wasted. It is all learning."
 
 ---
 
 ### 🧰 Tech Stack
 
 #### 🚀 Frontend
-- Angular
-- HTML | CSS | TypeScript
+Angular  
+TypeScript | HTML | CSS  
 
 #### ⚙️ Backend
-- Go (Golang)
-- REST APIs
-- Concurrency & Performance Optimization
+Go (Golang)  
+REST APIs and gRPC  
+Microservices Architecture  
+Concurrency and Performance Optimization  
 
-#### 🛢 Database & Tools
-- MySQL
-- Git & GitHub
-- Postman
+#### 🛢 Database and DevOps
+MySQL  
+Docker  
+Azure  
+Git and GitHub  
+Postman  
+
+---
+
+### 🏗️ What I Build
+
+Scalable backend services with Go  
+Efficient microservice based systems  
+Cloud ready applications using Azure  
+Clean and responsive frontend applications  
+APIs optimized for performance and reliability  
 
 ---
 
 ### 📊 What I Care About
 
-- Writing **clean, maintainable code**
-- Understanding **how things work under the hood**
-- Building **real-world scalable systems**
-- Constantly leveling up 🚀
+Writing clean and maintainable code  
+Understanding how systems work under the hood  
+Designing scalable and reliable architectures  
+Constantly improving as an engineer 🚀  
 
 ---
 
@@ -58,10 +73,10 @@
   </a>
 </p>
 
-📧 **Email:** nirmalmudaliar22@gmail.com
+📧 Email: nirmalmudaliar22@gmail.com  
 
 ---
 
 ### ⚡ Fun Fact
 
-> I enjoy breaking things down to fundamentals whether it's Go internals or frontend performance 😄
+I enjoy breaking systems down to fundamentals. Whether it is Go internals, concurrency, or distributed architectures 😄
