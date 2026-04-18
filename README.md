@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Angular ⚡ + Go 🚀</h3>
 
 <p align="center">
-  Building scalable systems & clean UIs — because great code should *actually matter*.
+  Building scalable systems & clean UIs because great code should *actually matter*.
 </p>
 
 ---
@@ -64,4 +64,4 @@
 
 ### ⚡ Fun Fact
 
-> I enjoy breaking things down to fundamentals — whether it's Go internals or frontend performance 😄
+> I enjoy breaking things down to fundamentals whether it's Go internals or frontend performance 😄
